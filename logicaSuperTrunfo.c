@@ -117,6 +117,7 @@ int main() {
     printf("PIB per Capita %.2lf Reais \n", PIBPercapita2);
     printf("Super Poder carta 2: %.2f\n\n", SuperPoder2);
 
+        //comparação dos atributos e impressão dos resultados if e else;
     if (Populacao > Populacao2 ) {
         printf("População da Carta 1 venceu!\n");
     } else {
